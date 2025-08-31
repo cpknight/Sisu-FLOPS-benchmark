@@ -1,0 +1,52 @@
+# Compiled executables
+basic_benchmark
+vectorized_benchmark
+gpu_benchmark
+flops_benchmark
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temporary files
+/tmp/test_*
+*.tmp
+*.temp
+
+# Build artifacts
+capabilities.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
