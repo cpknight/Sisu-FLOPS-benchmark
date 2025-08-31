@@ -1,3 +1,5 @@
+[:octocat:](https://github.com) / [`cpknight`](https://github.com/cpknight) / [`projects`](https://github.com/cpknight/projects) / [`Sisu-FLOPS-benchmark`](/)
+
 # Sisu FLOPS Benchmark Suite 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
